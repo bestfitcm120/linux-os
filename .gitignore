@@ -1,0 +1,5 @@
+build/
+img/
+*.log
+*.tmp
+*.bak
